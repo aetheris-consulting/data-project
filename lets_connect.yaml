@@ -1,0 +1,39 @@
+project:
+  title: "SAP-Style Inventory Data Cleanup & Power BI Prep"
+  slug: "sap-ops-dashboard"
+  description: >
+    Cleaned and transformed operational inventory data from a simulated SAP export.
+    Built a Power BI–ready dataset with inventory health classification, null handling,
+    and data standardization using Python and Jupyter.
+  status: "complete"
+  primary_tools:
+    - Python
+    - Pandas
+    - Jupyter Notebook
+    - GitHub
+    - Power BI (Phase 2 planned)
+  tags:
+    - data-analysis
+    - data-cleaning
+    - inventory
+    - powerbi
+    - operations
+    - ETL
+  repo: "https://github.com/aetheris-consulting/data-project"
+  created: "2025-06-18"
+  last_updated: "2025-06-18"
+
+author:
+  name: "Thomas"
+  alias: "aetheris-consulting"
+  location: "Houston, TX"
+  contact:
+    email: "you@example.com"
+    linkedin: "https://www.linkedin.com/in/your-handle"
+    github: "https://github.com/aetheris-consulting"
+  available_for_work: true
+  roles_interested:
+    - Data Analyst
+    - BI Developer
+    - Operations Analyst
+    - Data Engineering (Junior)
